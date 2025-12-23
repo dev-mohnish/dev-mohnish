@@ -1,5 +1,9 @@
 # Hi there, I'm Mohnish Sureshkumar! 👋
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dev-mohnish&label=Profile%20Views&color=0e75b6&style=flat" alt="dev-mohnish" />
+</p>
+
 ### 👨‍🎓 About Me
 - 🎓 I am currently pursuing a **B.Tech in Information Technology**.
 - 📊 I am aspiring to become a **System Analyst & Designer**.
@@ -20,10 +24,20 @@
 
 - **Concepts:** Systems Analysis, Flowcharts, Logic Design
 
+### 🏆 Achievements
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-mohnish&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="dev-mohnish" />
+</p>
+
 ### 📊 My GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-mohnish&show_icons=true&theme=radical" alt="Mohnish's Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mohnish&theme=radical" alt="Mohnish's Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mohnish&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 📬 Connect with Me
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohnish-s-b06bb6371)
+
