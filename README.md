@@ -41,6 +41,6 @@
 ### 📬 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mohnish-s-b06bb6371">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40px" alt="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30px" alt="LinkedIn" />
   </a>
 </p>
