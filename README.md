@@ -39,5 +39,8 @@
 </p>
 
 ### 📬 Connect with Me
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohnish-s-b06bb6371)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohnish-s-b06bb6371">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
