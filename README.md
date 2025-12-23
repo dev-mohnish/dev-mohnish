@@ -1,4 +1,4 @@
-# Hi there, I'm Mohnish! 👋
+# Hi there, I'm Mohnish Sureshkumar! 👋
 
 ### 👨‍🎓 About Me
 - 🎓 I am currently pursuing a **B.Tech in Information Technology**.
