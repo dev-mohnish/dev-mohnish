@@ -3,13 +3,12 @@
 ### 👨‍🎓 About Me
 - 🎓 I am currently pursuing a **B.Tech in Information Technology**.
 - 💻 I have a strong interest in **C Programming** and **Software Development**.
-- 📐 I am also skilled in **AutoCAD**.
 - 🌌 Outside of tech, I am passionate about **Astronomy** and **Sports**.
 - 🌱 I’m currently working on improving my coding skills.
 
 ### 🛠 Languages & Tools
 - **Languages:** C, C++
-- **Tools:** VS Code, AutoCAD, GitHub
+- **Tools:** GitHub
 
 ### 📊 My GitHub Stats
 <p align="left">
