@@ -9,7 +9,7 @@
 - 🌌 Outside of tech, I am passionate about **Astronomy** and **Sports**.
 
 ### 🛠 Languages & Tools
-- **Languages:** C,C++
+- **Languages:** C, C++
 - **Concepts:** Systems Analysis, Flowcharts, Logic Design
 - **Tools:** VS Code, AutoCAD, GitHub
 
