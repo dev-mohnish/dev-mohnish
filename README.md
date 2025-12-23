@@ -8,7 +8,7 @@
 - 🌱 I’m currently working on improving my coding skills.
 
 ### 🛠 Languages & Tools
-- **Languages:** C, C++, Python, HTML/CSS
+- **Languages:** C, C++
 - **Tools:** VS Code, AutoCAD, GitHub
 
 ### 📊 My GitHub Stats
