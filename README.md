@@ -2,13 +2,16 @@
 
 ### 👨‍🎓 About Me
 - 🎓 I am currently pursuing a **B.Tech in Information Technology**.
-- 💻 I have a strong interest in **C Programming** and **Software Development**.
+- 📊 I am aspiring to become a **System Analyst & Designer**.
+- 🧠 I enjoy **analyzing requirements** and designing logical solutions.
+- 💻 I have a strong foundation in **C Programming**.
+- 📐 I have basic knowledge of **AutoCAD** (useful for design visualization).
 - 🌌 Outside of tech, I am passionate about **Astronomy** and **Sports**.
-- 🌱 I’m currently working on improving my coding skills.
 
 ### 🛠 Languages & Tools
 - **Languages:** C, C++
-- **Tools:** GitHub
+- **Concepts:** Systems Analysis, Flowcharts, Logic Design
+- **Tools:** VS Code, AutoCAD, GitHub
 
 ### 📊 My GitHub Stats
 <p align="left">
