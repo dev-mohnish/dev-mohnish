@@ -25,13 +25,12 @@
 - **Concepts:** Systems Analysis, Flowcharts, Logic Design
 
 ### 🏆 Achievements
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=dev-mohnish&theme=radical&no-frame=true&no-bg=true" alt="dev-mohnish" /></p>
+[![trophies](https://github-profile-trophy.vercel.app/?username=dev-mohnish)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=dev-mohnish&show_icons=true&theme=radical" alt="Mohnish's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mohnish&layout=compact&theme=radical" alt="Top Languages" height="150" />
-<br/>
+![Mohnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-mohnish&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mohnish&layout=compact&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mohnish&theme=radical" alt="Mohnish's Streak" />
 </p>
 
