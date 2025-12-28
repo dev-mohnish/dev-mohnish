@@ -37,14 +37,12 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mohnish&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 ### 📬 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mohnish-s-b06bb6371">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40px" alt="LinkedIn" />
   </a>
-    &nbsp;
-  <a href="https://www.reddit.com/u/Actual_Response_1979" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  &nbsp; <a href="https://www.reddit.com/u/Actual_Response_1979" target="_blank">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" width="40px" height="40px" alt="Reddit" />
   </a>
 </p>
