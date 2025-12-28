@@ -38,3 +38,27 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohnish-s-b06bb6371"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn" /></a>&nbsp;<a href="https://www.reddit.com/u/Actual_Response_1979" target="_blank"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="40" height="40" alt="Reddit" /></a>
 </p>
+
+## 🏆 Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=dev-mohnish&theme=tokyonight" alt="trophies" />
+
+---
+
+## 📊 My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=dev-mohnish&show_icons=true&theme=tokyonight" alt="Mohnish's GitHub stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mohnish&layout=compact&theme=tokyonight" alt="Top Langs" />
+
+---
+
+## 📫 Connect with Me
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL_HERE" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="YOUR_REDDIT_URL_HERE" target="blank">
+    <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+</p>
