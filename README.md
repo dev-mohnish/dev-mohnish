@@ -31,11 +31,11 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=dev-mohnish&show_icons=true&theme=radical" alt="Mohnish's Stats" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mohnish&layout=compact&theme=radical" alt="Top Languages" height="150" />
-<br />
+<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mohnish&theme=radical" alt="Mohnish's Streak" />
 </p>
 
 ### 📬 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/mohnish-s-b06bb6371"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" /></a><a href="https://www.reddit.com/u/Actual_Response_1979"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" width="40" height="40" alt="Reddit" style="margin-left: 10px;" /></a>
+<a href="https://www.linkedin.com/in/mohnish-s-b06bb6371"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn" /></a>&nbsp;<a href="https://www.reddit.com/u/Actual_Response_1979" target="_blank"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="40" height="40" alt="Reddit" /></a>
 </p>
