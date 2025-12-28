@@ -43,4 +43,8 @@
   <a href="https://www.linkedin.com/in/mohnish-s-b06bb6371">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40px" alt="LinkedIn" />
   </a>
+  &nbsp; <a href="https://www.reddit.com/u/Actual_Response_1979">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/220px-Reddit_Logo_Icon.svg.png" width="40px" alt="Reddit" />
+  </a>
 </p>
+
