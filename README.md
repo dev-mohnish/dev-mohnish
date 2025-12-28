@@ -26,23 +26,24 @@
 
 ### 🏆 Achievements
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-mohnish&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-mohnish&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="dev-mohnish" />
 </p>
 
 ### 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-mohnish&show_icons=true&theme=radical" alt="Mohnish's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mohnish&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-mohnish&show_icons=true&theme=radical" alt="Mohnish's Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mohnish&theme=radical" alt="Mohnish's Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mohnish&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 📬 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohnish-s-b06bb6371" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mohnish-s-b06bb6371">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40px" alt="LinkedIn" />
   </a>
-  &nbsp;
+    &nbsp;
   <a href="https://www.reddit.com/u/Actual_Response_1979" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
