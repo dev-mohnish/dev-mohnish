@@ -38,4 +38,5 @@
 ### 📬 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/mohnish-s-b06bb6371" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn" /></a>&nbsp;<a href="https://www.reddit.com/u/Actual_Response_1979"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="40" height="40" alt="Reddit" /></a>
+  [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/DSO623846?style=social)](https://x.com/DSO623846)
 </p>
