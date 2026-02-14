@@ -36,5 +36,16 @@
 
 ### 📬 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/mohnish-s-b06bb6371" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn" /></a>&nbsp;<a href="https://www.reddit.com/u/Actual_Response_1979" target="_blank"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="40" height="40" alt="Reddit" /></a>
+  <a href="https://www.linkedin.com/in/mohnish-s-b06bb6371" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://www.reddit.com/u/Actual_Response_1979" target="_blank">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" width="40" height="40" alt="Reddit" />
+  </a>&nbsp;
+  <a href="https://x.com/DSO623846" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" width="40" height="40" alt="X (Twitter)" />
+  </a>&nbsp;
+  <a href="https://discord.com/users/1466510366702960884" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40" alt="Discord" />
+  </a>
 </p>
