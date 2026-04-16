@@ -44,8 +44,5 @@
   </a>&nbsp;
   <a href="https://x.com/DSO623846" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/120px-X_logo.jpg" width="40" height="40" alt="X" />
-  </a>&nbsp;
-  <a href="https://discord.com/users/1466510366702960884" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40" alt="Discord" />
   </a>
 </p>
